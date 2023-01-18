@@ -1,0 +1,17 @@
+{% extends "base.njk" %}
+{% block layout %}
+<header>
+  <h1>{{ site.name }}</h1>
+  <nav>
+    <ul>
+      <li><a href="/">Beranda</a></li>
+    </ul>
+  </nav>
+</header>
+<main>
+  {{ content | safe }}
+</main>
+<footer>
+  <small>© 2023</small>
+</footer>
+{% endblock %}
