@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+#welcome {
+  max-width: 80ch;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+p {
+  line-height: 1.5;
+}
