@@ -2,10 +2,9 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   {% if title %}
-  <title>{{ title }} - {{ site.name }}</title>
+  <title>{{ title }}</title>
   {% else %}
   <title>{{ site.name }}</title>
   {% endif %}
@@ -16,6 +15,7 @@
   <meta name="description" content="{{ site.description }}">
   {% endif %}
 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://unpkg.com/@csstools/normalize.css@12.0.0/normalize.css" rel="stylesheet" />
   <link href="/styles/base.css" rel="stylesheet">
 
