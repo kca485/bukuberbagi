@@ -1,11 +1,18 @@
+header, footer {
+  padding: 0 1.5em;
+}
+
 nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
-  display: flex;
-  justify-content: end;
+  text-align: end;
 }
 
-nav ul li {
-  margin-left: 1em;
+nav li {
+  display: inline;
+}
+
+nav li + li {
+  margin-left: 0.5em;
 }

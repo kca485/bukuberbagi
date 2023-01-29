@@ -1,3 +1,54 @@
 body {
   margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  max-width: 50ch
+}
+
+h2 {
+  margin-top: 3em;
+}
+
+main, footer {
+  max-width: fit-content;
+  margin: auto;
+  padding: 0 1.5em;
+}
+
+p, li {
+  max-width: 70ch;
+  line-height: 1.6;
+}
+
+ul, ol {
+  list-style-position: inside;
+  padding: 0;
+}
+
+p + ul, p + ol {
+  margin-top: 0;
+}
+
+li + li {
+  margin-top: 0.5em;
+}
+
+blockquote {
+  margin: 0;
+  font-style: italic;
+}
+
+blockquote p {
+  margin: 0;
+}
+
+blockquote + p {
+  margin-top: 0;
+}
+
+blockquote + p::before {
+  content: '~ ';
 }
