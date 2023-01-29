@@ -1,0 +1,10 @@
+.image-list {
+  max-width: 70ch;
+  list-style: none;
+  text-align: center;
+}
+
+.image-list li {
+  margin: 1em;
+  display: inline-block;
+}
