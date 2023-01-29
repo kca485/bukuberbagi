@@ -52,3 +52,7 @@ blockquote + p {
 blockquote + p::before {
   content: '~ ';
 }
+
+span[lang] {
+  font-style: italic;
+}
