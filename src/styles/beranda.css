@@ -18,4 +18,10 @@
 
 h1 {
   padding-top: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  letter-spacing: 2px;
+}
+
+#welcome p {
+  font-style: italic;
 }

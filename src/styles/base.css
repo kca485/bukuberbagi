@@ -3,6 +3,7 @@
   --color-neutral-dark: #1b1b00;
   --color-primary: #f90706;
   --color-secondary: #0659fe;
+  --color-tertiary: #ddae44;
 }
 
 body {
@@ -58,4 +59,22 @@ blockquote + p::before {
 
 span[lang] {
   font-style: italic;
+}
+
+.btn {
+  display: inline-block;
+  vertical-align: center;
+  background-color: var(--color-primary);
+  color: var(--color-neutral-light);
+  padding: 0.75em 1.5em;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: monospace;
+  letter-spacing: 0.2em;
+  border: solid 2px var(--color-neutral-dark);
+}
+
+.btn:hover {
+  background-color: var(--color-tertiary);
 }
