@@ -25,3 +25,7 @@ h1 {
 #welcome p {
   font-style: italic;
 }
+
+details {
+  margin: 1em 0;
+}

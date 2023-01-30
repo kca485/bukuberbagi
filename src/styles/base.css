@@ -20,8 +20,8 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 50ch
 }
 
-main, footer {
-  margin: auto;
+main {
+  margin-bottom: 4em;
 }
 
 p, li {
@@ -57,6 +57,21 @@ blockquote + p {
 
 blockquote + p::before {
   content: '~ ';
+}
+
+details {
+  border: solid 1px var(--color-neutral-dark);
+  padding: 1em 1em 0;
+}
+
+summary {
+  margin: -1em -1em 0;
+  padding: 1em;
+  font-weight: 600;
+}
+
+details[open] summary {
+  border-bottom: solid 1px var(--color-neutral-dark);
 }
 
 span[lang] {
