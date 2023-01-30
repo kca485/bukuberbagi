@@ -9,6 +9,13 @@ header {
   width: 100%;
   background-color: var(--color-neutral-light);
   z-index: 1;
+  display: flex;
+  justify-content: space-between;
+}
+
+#logo {
+  display: flex;
+  align-items: center;
 }
 
 nav ul {
