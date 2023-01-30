@@ -1,0 +1,21 @@
+#welcome {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-image: url('../images/hero.jpg');
+  min-height: 90vh;
+  width: 100%;
+  color: var(--color-neutral-light);
+  display: flex;
+  align-items: center;
+}
+
+#welcome-content {
+  backdrop-filter: brightness(40%);
+  padding: 2em;
+  margin: 0 2em;
+}
+
+h1 {
+  padding-top: 0;
+}

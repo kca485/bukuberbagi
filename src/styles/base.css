@@ -1,7 +1,16 @@
+:root {
+  --color-neutral-light: #fefefa;
+  --color-neutral-dark: #1b1b00;
+  --color-primary: #f90706;
+  --color-secondary: #0659fe;
+}
+
 body {
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
+  background-color: var(--color-neutral-light);
+  color: var(--color-neutral-dark);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -9,9 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 main, footer {
-  max-width: fit-content;
   margin: auto;
-  padding: 0 1.5em;
 }
 
 p, li {
