@@ -47,6 +47,7 @@ footer {
   background-color: var(--color-secondary-dark);
   color: var(--color-neutral-light);
   padding: 4em 1.5em 0 1.5em;
+  font-size: smaller;
 }
 
 footer h2 {
@@ -61,4 +62,19 @@ footer a {
 small {
   display: block;
   margin-top: 3em;
+}
+
+#contact-info {
+  columns: 2;
+  column-gap: 3em;
+}
+
+#contact-info h3 {
+  margin: 0;
+}
+
+@media screen and (max-width: 615px) {
+  #contact-info {
+    columns: unset;
+  } 
 }

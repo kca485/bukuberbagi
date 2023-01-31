@@ -29,3 +29,10 @@ h1 {
 details {
   margin: 1em 0;
 }
+
+@media screen and (max-width: 430px) {
+  h1 {
+    font-size: 24px;
+    padding-top: 1em;
+  }
+}

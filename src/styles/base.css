@@ -60,7 +60,7 @@ blockquote + p::before {
 }
 
 details {
-  border: solid 1px var(--color-neutral-dark);
+  border: solid 3px var(--color-neutral-dark);
   padding: 1em 1em 0;
 }
 
