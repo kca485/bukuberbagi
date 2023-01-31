@@ -5,24 +5,6 @@
   row-gap: 1em
 }
 
-.card {
-  border: solid 1px #000000;
-  border-radius: 5px;
-  padding: 1em;
-}
-
-.card h3 {
-  max-width: initial;
-}
-
-.card a {
-  display: block;
-}
-
-.card h3, .card a {
-  text-align: center;
-}
-
 .image-list {
   max-width: 75ch;
   list-style: none;
