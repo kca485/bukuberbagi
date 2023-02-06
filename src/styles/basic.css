@@ -29,6 +29,10 @@ nav li + li {
   margin-left: 0.5em;
 }
 
+nav a {
+  color: var(--color-neutral-dark);
+}
+
 h1 {
   padding-top: 5em;
 }
