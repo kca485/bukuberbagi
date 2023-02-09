@@ -26,11 +26,17 @@ nav li {
 }
 
 nav li + li {
-  margin-left: 0.5em;
+  margin-left: 1em;
 }
 
 nav a {
   color: var(--color-neutral-dark);
+  text-decoration: none;
+}
+
+nav a:hover,
+nav a:focus {
+  border-bottom: solid 3px var(--color-secondary-dark);
 }
 
 h1 {
