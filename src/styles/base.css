@@ -2,6 +2,7 @@
   --color-neutral-light: #fefefa;
   --color-neutral-dark: #1b1b00;
   --color-primary: #f90706;
+  --color-primary-dark: #ea0706;
   --color-secondary: #0659fe;
   --color-secondary-dark: #141496;
   --color-tertiary: #ddae44;
@@ -81,7 +82,7 @@ span[lang] {
 .btn {
   display: inline-block;
   vertical-align: center;
-  background-color: var(--color-primary);
+  background-color: var(--color-primary-dark);
   color: var(--color-neutral-light);
   padding: 0.75em 1.5em;
   border-radius: 10px;
