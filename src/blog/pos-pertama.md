@@ -1,5 +1,6 @@
 ---
 layout: post.njk
+tags: pos
 title: Pos Pertama
 description: Percoban pos pertama
 ---

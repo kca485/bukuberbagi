@@ -1,0 +1,15 @@
+---
+layout: post.njk
+title: Blog Buku Berbagi
+description: Kumpulan tulisan dari Kawan Buku Berbagi
+styles:
+  - post-list.css
+---
+<ul>
+{% for pos in collections.pos %}
+  <li>
+    <a href="{{ post.url }}"><h2>{{ pos.data.title }}</h2></a>
+    <p>{{ pos.data.description }}</p>
+  </li>
+{% endfor %}
+</ul>
