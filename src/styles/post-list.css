@@ -1,8 +1,22 @@
+.main {
+  max-width: 80ch;
+}
+
 .main h2, .main p {
   margin: 0;
 }
 
-ul {
+.main ul {
   list-style: none;
+  margin-top: 108px;
   margin-bottom: 4em;
+}
+
+.main li {
+  margin-top: 2em;
+}
+
+.date {
+  font-size: 0.8em;
+  font-weight: 600;
 }

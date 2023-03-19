@@ -6,9 +6,14 @@ styles:
   - post-list.css
 ---
 <ul>
-{% for pos in collections.pos %}
+{% for pos in collections.pos | reverse %}
   <li>
-    <a href="{{ post.url }}"><h2>{{ pos.data.title }}</h2></a>
+    <a href="{{ pos.url }}"><h2>{{ pos.data.title }}</h2></a>
+    <p class='date'>
+      {{
+        pos.page.date.toLocaleDateString('id-ID', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })
+      }}
+    </p>
     <p>{{ pos.data.description }}</p>
   </li>
 {% endfor %}
