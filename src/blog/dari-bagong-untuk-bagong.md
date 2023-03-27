@@ -35,8 +35,8 @@ Betapa tertinggalnya pikiran dan sikap kita sebagai manusia yang mengaku dewasa.
 
 
 
-**V﻿irgiawan Perdana Sakti**
+**D﻿itulis oleh Virgiawan Perdana Sakti**
 
-W﻿arga desa yang masih belajar jadi manusia.
+W﻿arga desa yang masih belajar menjadi manusia.
 
 <!--EndFragment-->
