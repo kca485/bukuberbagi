@@ -2,11 +2,10 @@
 layout: post.njk
 tags: pos
 title: Dari Bagong untuk Bagong
-description: Ditulis oleh Virgiawan Perdana Sakti
+description: Bagong merekam potret kebahagiaan yang terbungkus dalam
+  kesederhanaan. Suatu ilmu yang tak diajarkan di sekolahan dan bangku kuliah.
 ---
 <!--StartFragment-->
-
-
 
 ![Permainan 'Kata Tono' saat Sunday Sharing and Caring ](/images/uploads/img-20230208-wa0016.jpg)
 
