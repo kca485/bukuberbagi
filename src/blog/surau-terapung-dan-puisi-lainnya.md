@@ -5,11 +5,13 @@ title: Surau Terapung dan Puisi Lainnya
 description: Hidup sejatinya memang sebuah kesinambungan dari sebab-akibat,
   alurnya berkelindan antara satu dengan banyak hal.
 ---
-<!--StartFragment-->
+![](/images/uploads/puri-cepuri.jpeg)
 
-![](/images/uploads/puri-cepuri.jpeg "Puri Cepuri Parangkusumo")
+
 
 **Surau Terapung**
+
+
 
 Anak manusia duduk pada pelataran sebuah surau,
 
@@ -230,5 +232,3 @@ Dan di atas perasaan penuh lagi riuh disesapi sepi.
 **Ditulis oleh Dian Murni Kurniasih**
 
 Lahir di Palembang, Januari 2003. Mulai jatuh cinta dengan dunia kepenulisan sedari sekolah menengah pertama. Saat ini tinggal di Yogyakarta, tengah menempuh pendidikan studi strata satu jurusan Sosiologi di Universitas Widya Mataram Yogyakarta.
-
-<!--EndFragment-->
