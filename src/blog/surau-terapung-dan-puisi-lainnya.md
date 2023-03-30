@@ -31,6 +31,8 @@ Apakah hidup hanya berlangsung antara buritan dan kemudi?
 
 Pembatasnya hanya tambah menyatukan kenang.
 
+
+
 Ditampakkannya tatapan kosong yang penuh,
 
 Serta pikiran kecil yang riuh dan bergemuruh.
@@ -43,11 +45,17 @@ Suara merdu terdengar sendu,
 
 Anak manusia itu meneruskan senggamanya dengan waktu.
 
+
+
 *Sriwijaya, 2022* 
 
 —
 
+
+
 **Catatan Perjalanan**
+
+
 
 Aku jadi senang bepergian,
 
@@ -79,11 +87,17 @@ Kau masih menunggu aku menepi,
 
 Sebab rasamu, ternyata butuh tumpangan.
 
+
+
 *Yogyakarta, 2021*
 
 —
 
+
+
 **Simpang Jalan Seyegan**
+
+
 
 Akhirnya kita tiba pada persimpangan jalan,
 
@@ -91,7 +105,7 @@ Aku memilih keyakinanku,
 
 dan kau memilih pergi meninggalkanku,
 
-Aku banyak bertemu kepingan semu, 
+Aku banyak bertemu kepingan semu,
 
 Bertemu klip kenang yang membisu.
 
@@ -101,19 +115,25 @@ Pada jalan berlubang,
 
 Pada simpang jalanan.
 
-Terkantuk-kantuk; terkentut-kentut, terkarut-marut,
+Terkantuk-kantuk; terkentut-kentut, terkarut-marut, tercerai-berai.
 
-tercerai-berai.
+
 
 Hidup sejatinya memang sebuah kesinambungan dari sebab-akibat,
 
 Alurnya berkelindan antara satu dengan banyak hal.
 
+
+
 *Yogyakarta, 2022*
 
 —
 
+
+
 **Situasi; Situasu**
+
+
 
 Kemarin, seseorang menyampaikan kesepiannya,
 
@@ -133,9 +153,13 @@ Sepi,
 
 Kemudian mati dicekik isi pikiran sendiri.
 
+
+
 *Yogyakarta, 2023*
 
 —
+
+
 
 **Upaya Mengejar**
 
@@ -155,11 +179,17 @@ Kita melangkah pergi,
 
 Dan tidak pernah menemukan rumah untuk kembali.
 
+
+
 *Yogyakarta, 2022*
 
 —
 
+
+
 **Libur Panjang; Bagian 1**
+
+
 
 Anak-anak sumringah menatap lembar ujian hari Jum’at,
 
@@ -172,6 +202,8 @@ Satu dua berencana pergi menyambangi.
 Yang lain masih bingung hendak ke mana menepi,
 
 Aku? sudah pasti menghabiskannya sendiri.
+
+
 
 **Libur Panjang; Bagian 2**
 
@@ -191,7 +223,7 @@ Dan di atas perasaan penuh lagi riuh disesapi sepi.
 
 *Yogyakarta, 2023*
 
-
+**_﻿__**
 
 
 
