@@ -9,11 +9,7 @@ description: Hidup sejatinya memang sebuah kesinambungan dari sebab-akibat,
 
 ![](/images/uploads/puri-cepuri.jpeg "Puri Cepuri Parangkusumo")
 
-
-
 **Surau Terapung**
-
-
 
 Anak manusia duduk pada pelataran sebuah surau,
 
@@ -27,8 +23,6 @@ Sebagian Pengendalinya diburu temu,
 
 Sebagian lagi dihantui urusan rancu.
 
-
-
 Anak manusia masih tetap khidmat,
 
 Dengan lamunan semu yang diramu,
@@ -36,8 +30,6 @@ Dengan lamunan semu yang diramu,
 Apakah hidup hanya berlangsung antara buritan dan kemudi?
 
 Pembatasnya hanya tambah menyatukan kenang.
-
-
 
 Ditampakkannya tatapan kosong yang penuh,
 
@@ -51,19 +43,11 @@ Suara merdu terdengar sendu,
 
 Anak manusia itu meneruskan senggamanya dengan waktu.
 
-
-
 *Sriwijaya, 2022* 
-
-
 
 —
 
-
-
 **Catatan Perjalanan**
-
-
 
 Aku jadi senang bepergian,
 
@@ -75,8 +59,6 @@ Mana tiba, mana rimba.
 
 Apakah di antara kita ada yang perlu berteduh?
 
-
-
 Kau sibuk mencari jalan pintas,
 
 Aku sibuk mencari celah puas,
@@ -84,8 +66,6 @@ Aku sibuk mencari celah puas,
 Dijalan yang tak asing kusapa,
 
 Ingatan tentangmu–kusapu.
-
-
 
 Angkringan yang biasa kita singgahi menyepi,
 
@@ -99,19 +79,11 @@ Kau masih menunggu aku menepi,
 
 Sebab rasamu, ternyata butuh tumpangan.
 
-
-
 *Yogyakarta, 2021*
-
-
 
 —
 
-
-
 **Simpang Jalan Seyegan**
-
-
 
 Akhirnya kita tiba pada persimpangan jalan,
 
@@ -122,8 +94,6 @@ dan kau memilih pergi meninggalkanku,
 Aku banyak bertemu kepingan semu, 
 
 Bertemu klip kenang yang membisu.
-
-
 
 Pada marka jalan,
 
@@ -139,17 +109,11 @@ Hidup sejatinya memang sebuah kesinambungan dari sebab-akibat,
 
 Alurnya berkelindan antara satu dengan banyak hal.
 
-
-
 *Yogyakarta, 2022*
-
-
 
 —
 
 **Situasi; Situasu**
-
-
 
 Kemarin, seseorang menyampaikan kesepiannya,
 
@@ -169,19 +133,11 @@ Sepi,
 
 Kemudian mati dicekik isi pikiran sendiri.
 
-
-
 *Yogyakarta, 2023*
-
-
 
 —
 
-
-
 **Upaya Mengejar**
-
-
 
 Kita berlebih-lebihan,
 
@@ -191,8 +147,6 @@ Kita terus mendapatkan,
 
 Dan selalu merasa kehilangan.
 
-
-
 Kita cepat-cepat,
 
 Dan tetap saja terlambat,
@@ -201,13 +155,9 @@ Kita melangkah pergi,
 
 Dan tidak pernah menemukan rumah untuk kembali.
 
-
-
 *Yogyakarta, 2022*
 
 —
-
-
 
 **Libur Panjang; Bagian 1**
 
@@ -219,13 +169,9 @@ Melainkan kepada liburan panjang yang menanti,
 
 Satu dua berencana pergi menyambangi.
 
-
-
 Yang lain masih bingung hendak ke mana menepi,
 
 Aku? sudah pasti menghabiskannya sendiri.
-
-
 
 **Libur Panjang; Bagian 2**
 
@@ -243,10 +189,6 @@ Dan di atas perasaan penuh lagi riuh disesapi sepi.
 
 *Yogyakarta, 2023*
 
-
-
-**Ditulis oleh Dian Murni Kurniasih** \[puisi pribumi] lahir di Palembang, pada Januari 2003, mulai jatuh cinta dengan dunia kepenulisan sedari sekolah menengah pertama. Saat ini tinggal di Yogyakarta, tengah menempuh pendidikan studi strata satu jurusan Sosiologi di Universitas Widya Mataram Yogyakarta.
-
-
+**Ditulis oleh Dian Murni Kurniasih**--puisi pribumi--lahir di Palembang, pada Januari 2003, mulai jatuh cinta dengan dunia kepenulisan sedari sekolah menengah pertama. Saat ini tinggal di Yogyakarta, tengah menempuh pendidikan studi strata satu jurusan Sosiologi di Universitas Widya Mataram Yogyakarta.
 
 <!--EndFragment-->
