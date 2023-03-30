@@ -189,6 +189,8 @@ Dan di atas perasaan penuh lagi riuh disesapi sepi.
 
 *Yogyakarta, 2023*
 
-**Ditulis oleh Dian Murni Kurniasih**--puisi pribumi--lahir di Palembang, pada Januari 2003, mulai jatuh cinta dengan dunia kepenulisan sedari sekolah menengah pertama. Saat ini tinggal di Yogyakarta, tengah menempuh pendidikan studi strata satu jurusan Sosiologi di Universitas Widya Mataram Yogyakarta.
+
+
+**Ditulis oleh Dian Murni Kurniasih**--puisi pribumi--lahir di Palembang, Januari 2003. Mulai jatuh cinta dengan dunia kepenulisan sedari sekolah menengah pertama. Saat ini tinggal di Yogyakarta, tengah menempuh pendidikan studi strata satu jurusan Sosiologi di Universitas Widya Mataram Yogyakarta.
 
 <!--EndFragment-->
