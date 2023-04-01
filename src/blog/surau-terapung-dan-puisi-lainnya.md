@@ -2,6 +2,7 @@
 layout: post.njk
 tags: pos
 title: Surau Terapung dan Puisi Lainnya
+date: git Created
 description: Hidup sejatinya memang sebuah kesinambungan dari sebab-akibat,
   alurnya berkelindan antara satu dengan banyak hal.
 ---

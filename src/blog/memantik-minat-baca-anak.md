@@ -2,6 +2,7 @@
 layout: post.njk
 tags: pos
 title: Memantik Minat Baca Anak
+date: git Created
 description: Memaksa diri meluangkan waktu untuk membaca buku, lebih dari
   sekadar menumbuhkan kecakapan diri sendiri, bahkan dapat menginspirasi
   anak-anak usia dini.

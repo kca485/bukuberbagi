@@ -2,6 +2,7 @@
 layout: post.njk
 tags: pos
 title: Dari Bagong untuk Bagong
+date: git Created
 description: Bagong merekam potret kebahagiaan yang terbungkus dalam
   kesederhanaan. Suatu ilmu yang tak diajarkan di sekolahan dan bangku kuliah.
 ---
