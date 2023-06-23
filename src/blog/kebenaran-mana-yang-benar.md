@@ -18,7 +18,7 @@ description: Kalau bicara kebenaran nggak akan ada ujungnya karena ada beberapa
 
 Gareng hanya menyimak dengan seksama debat kusir antara kakak dan adiknya, sembari mengelus-elus kakinya yang mulai bengkak karena jatuh dari sepeda onthelnya sewaktu *ngabuburit* kemarin petang. 
 
-Semar mencoba menengahi pembicaraan mereka berdua, "Sudah-sudah jangan terlalu tegang. Kita tidak diperintah Allah untuk berlomba dalam kebenaran. Kalau bicara kebenaran *nggak* akan ada ujungnya karena ada beberapa tingkatan kebenaran kualitatif yang sering kita dengar.” Ketiga putranya nampak saling lirik menunggu penjelasan lebih lanjut dari Sang Bapak yang dikenal bijaksana.
+Semar mencoba menengahi pembicaraan mereka berdua, "Sudah-sudah jangan terlalu tegang. Kita tidak diperintah Allah untuk berlomba dalam kebenaran. Kalau bicara kebenaran nggak akan ada ujungnya karena ada beberapa tingkatan kebenaran kualitatif yang sering kita dengar.” Ketiga putranya nampak saling lirik menunggu penjelasan lebih lanjut dari Sang Bapak yang dikenal bijaksana.
 
 “Pertama, kebenaran pribadi. Lingkupnya kecil, sedangkan potensi perbedaan di dalamnya sangat besar. Misalnya, Bagong meyakini bakso itu enak, tetapi menurut Petruk lebih enak nasi goreng. Kedua, kebenaran kelompok. Di mana cakupannya sedikit lebih luas. Misal kelompok A meyakini penggunaan metode hisab lebih efisien dalam menentukan awal bulan, sedangkan kelompok B meyakini penggunaan metode ruqyah lebih jelas kepastiannya.”
 
@@ -30,13 +30,13 @@ Bagong dan Petruk masih saja nampak bersitegang bersiap mengambil kesempatan unt
 
 “*Meneng*! *Mingkem*!” Bagong menginstruksikan kedua saudaranya untuk lekas diam. “Ayo *ndang* dilanjut, Mar Semar, eh, Pak Bapak”, lanjut Bagong.
 
-“Kita nggak usah sibuk memperdebatkan kebenaran yang kita yakini. Allah sudah memberikan rumusan dalam firman-Nya, 'Sesungguhnya kita milik Allah, dan kepada-Nya-lah kita kembali', kita hanya perlu fokus mempersiapkan mudik kita kembali ke haribaan-Nya, terserah itu mau lewat mana asal tidak menjauh dari prosedur yang sudah difirmankan dalam Al-Quran dan hadist Nabi.” Pungkas Semar.
+“Kita *nggak* usah sibuk memperdebatkan kebenaran yang kita yakini. Allah sudah memberikan rumusan dalam firman-Nya, 'Sesungguhnya kita milik Allah, dan kepada-Nya-lah kita kembali', kita hanya perlu fokus mempersiapkan mudik kita kembali ke haribaan-Nya, terserah itu mau lewat mana asal tidak menjauh dari prosedur yang sudah difirmankan dalam Al-Quran dan hadist Nabi.” Pungkas Semar.
 
 Bagong merasa pendapatnya mendapat dukungan, dengan berbangga diri Bagong meledek Petruk, "Lho, Truk, apa kataku, yang penting tujuannya, caranya *mbok* terserah."
 
-\*﻿\**
+\*\**
 
-**D﻿itulis oleh Virgiawan Perdana Sakti**
+D﻿itulis oleh Virgiawan Perdana Sakti
 
 W﻿arga desa yang masih belajar menjadi manusia.
 
